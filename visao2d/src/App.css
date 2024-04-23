@@ -1,0 +1,9 @@
+#img_topo {
+    margin: 0;
+    padding: 0;
+    height: 8px;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
