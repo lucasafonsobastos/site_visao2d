@@ -7,7 +7,7 @@ interface LogoProps {
 
 const Logo:  FunctionComponent<LogoProps> = ({width, height}) => {
 
-    const src = './img/Logo.png'
+    const src = '/img/Logo.png'
     const alt = 'logo'
 
     const logoStyled = {
